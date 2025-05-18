@@ -34,3 +34,6 @@ This case study includes the following Business Analyst artifacts:
 - Agile User Stories and Acceptance Criteria
 - Swimlane Diagram for Registration & Profile Setup
 - Visual flowcharts and early feature planning diagrams
+
+- ### Project Files
+- [Download the BRD (Business Requirements Document)](Burnbot-BRD.pdf)
