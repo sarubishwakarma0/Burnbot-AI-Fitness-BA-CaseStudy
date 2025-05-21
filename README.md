@@ -1,39 +1,100 @@
-# Burnbot-AI-Fitness-BA-CaseStudy
-Buisness analyst Portfolio for an AI-powered Fitness Bestie app
-
-Role:Business Analyst  
-**Tools Used:** Word, Excel, Lucidchart, Draw.io  
-**Methodology:** Agile (Scrum-style)  
+# BurnBot – AI-Powered Fitness App (Business Analyst Portfolio Case Study)
 
 ## Overview
-BurnBot is a next-gen fitness app designed to be more than just a tracker — it’s your AI-powered fitness bestie. The goal is to help users build sustainable health habits through personalized workouts, real-time meal insights, and motivating reminders that feel like a friend, not a drill sergeant. With built-in AI features like photo-based calorie detection, chatbot coaching, and future wearable integration, BurnBot offers a fun, intuitive, and emotionally intelligent approach to fitness.
+BurnBot is a fitness app designed for busy professionals and goal-driven users who want an easier, smarter way to stay on track. Powered by artificial intelligence, the app blends smart workout tracking, nutrition analysis, wearable tech, and real-time motivation to improve health outcomes and user consistency.
 
-## Objective
-To define and document the core business and functional requirements for BurnBot’s Minimum Viable Product (MVP) by focusing on:
-- User Registration:** Support sign-up via email, phone, and Google
-- Login Security:** Implement two-factor authentication (2FA) for user safety
-- Profile Personalization:** Allow users to set goals, fitness levels, and nutrition preferences
-- Scalable Architecture:** Lay the foundation for future features such as AI coaching, 3D wearable sync, and image-based calorie tracking
-- User Motivation:** Build in gamified reminders, check-ins, and a chatbot that engages users like a real friend
+This Business Analyst case study demonstrates the full project lifecycle from initial gap discovery to structured business and functional documentation.
 
-- ## My Role
-As the Business Analyst and concept creator of BurnBot, I was responsible for:
-- Gathering and analyzing the needs of potential users
-- Defining the business problem and solution goals
-- Outlining the MVP feature set based on value and feasibility
-- Creating Business and Functional Requirements Documents (BRD & FRD)
-- Developing user stories and acceptance criteria using Agile practices
-- Designing process flows and early visual mockups
-- Planning for future enhancements and product scalability
+---
 
-- 
-## Deliverables
-This case study includes the following Business Analyst artifacts:
-- Business Requirements Document (BRD)
-- Functional Requirements Document (FRD)
-- Agile User Stories and Acceptance Criteria
-- Swimlane Diagram for Registration & Profile Setup
-- Visual flowcharts and early feature planning diagrams
+## Problem Statement
+Through simulated stakeholder discussions and competitive research, it became clear that many fitness apps fail to provide true personalization, accountability, or motivation. Users abandon apps that feel generic, repetitive, or don't adapt to their evolving fitness goals.
 
-- ### Project Files
-- [Download the BRD (Business Requirements Document)](Burnbot-BRD.pdf)
+BurnBot aims to solve this by introducing:
+- AI-driven motivation and reminders
+- Smart integration with wearable devices
+- Real-time calorie recognition and tracking
+- A personalized dashboard that evolves with user progress
+
+---
+
+## My Role
+As the Business Analyst for BurnBot, I led the entire documentation process, including:
+- Gap Analysis and competitor review
+- Business Requirements Documentation (BRD)
+- Functional Requirements Documentation (FRD)
+- Workflow and user journey mapping (BPMN)
+- Feature prioritization and MVP planning
+
+---
+
+## Tools Used
+- Google Docs (documentation)
+- Draw.io (BPMN diagrams)
+- Jira (for Agile planning – simulated)
+- Microsoft Word & Excel
+
+---
+
+## Project Artifacts
+
+- [Business Requirements Document (BRD)](./BurnBot_BRD.pdf)
+- [Gap Analysis](./BurnBot_Gap_Analysis.pdf)
+- [Functional Requirements Document (FRD)](Coming Soon)
+- [BPMN User Flow](Coming Soon)
+
+---
+
+## Features Documented
+
+1. **User Registration**  
+   - Channels: Email, Google, Apple ID  
+   - Secure onboarding with confirmation flow
+
+2. **Login & Authentication**  
+   - Username/password login  
+   - Optional Biometric and 2FA setup
+
+3. **User Profile Setup**  
+   - Input fitness goals, measurements, avatar personalization  
+   - AI baseline fitness analysis based on answers
+
+4. **AI Calorie Tracker**  
+   - Upload food photos  
+   - Image recognition to estimate calories/macros  
+   - Daily nutritional feedback
+
+5. **AI Fitness Bestie (Chatbot)**  
+   - Sends motivational check-ins  
+   - Uses phrases like “Are you ghosting me?” to keep tone fun & casual  
+   - Tracks user engagement and adjusts tone/feedback
+
+6. **Dashboard & Progress Tracker**  
+   - Track workouts, steps, calories, goals  
+   - Weekly and monthly insights
+
+7. **Wearable Integration**  
+   - Syncs with smartwatches and bands  
+   - Auto-imports heart rate, steps, sleep, and workout data
+
+8. **Premium Tier Vision (Future Scope)**  
+   - Unlock exclusive features like:
+     - AI 3D meta-glasses workout mode  
+     - Advanced body scans  
+     - Personalized meal plan generator
+
+---
+
+## Outcome
+This case study reflects real-world BA practices applied to a tech-forward fitness solution. It demonstrates:
+- My ability to identify business gaps and document them
+- Clear articulation of stakeholder needs and system responses
+- Agile-aligned thinking and feature-based requirement breakdowns
+
+I’ve structured this to show how I approach business analysis end-to-end, and it forms a cornerstone of my internship-ready portfolio.
+
+---
+
+## Let’s Connect!
+Open to internships, junior BA roles, or collaborations.  
+Let’s bring great ideas to life with clarity and purpose.
